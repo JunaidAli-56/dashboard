@@ -1,0 +1,29 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.1.0",
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.13.0",
+    "@nextui-org/react": "^1.0.0-beta.12",
+    "antd": "^5.5.0",
+    "aos": "^2.3.4",
+    "bootstrap": "^5.2.3",
+    "mdb-react-ui-kit": "^6.0.0",
+    "next": "13.4.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "sass": "^1.62.1"
+  }
+}
